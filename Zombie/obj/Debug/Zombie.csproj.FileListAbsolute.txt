@@ -1,0 +1,6 @@
+c:\users\heather\documents\visual studio 2012\Projects\Zombie\Zombie\bin\Debug\Zombie.exe.config
+c:\users\heather\documents\visual studio 2012\Projects\Zombie\Zombie\bin\Debug\Zombie.exe
+c:\users\heather\documents\visual studio 2012\Projects\Zombie\Zombie\bin\Debug\Zombie.pdb
+c:\users\heather\documents\visual studio 2012\Projects\Zombie\Zombie\obj\Debug\Zombie.csprojResolveAssemblyReference.cache
+c:\users\heather\documents\visual studio 2012\Projects\Zombie\Zombie\obj\Debug\Zombie.exe
+c:\users\heather\documents\visual studio 2012\Projects\Zombie\Zombie\obj\Debug\Zombie.pdb
